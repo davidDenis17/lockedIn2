@@ -1,10 +1,7 @@
-import InstagramClone from './components/InstagramClone'
-import LockedIn from './components/LockedIn'
+import LockedIn from "./components/LockedIn";
 
 function App() {
-  return (
-    <LockedIn />
-  )
+  return <LockedIn />;
 }
 
-export default App
+export default App;
